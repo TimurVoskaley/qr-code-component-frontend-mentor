@@ -1,0 +1,57 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### Screenshot
+
+![](./images/Screenshot.png)
+
+
+
+### Links
+
+- Solution URL: [https://github.com/TimurVoskaley/qr-code-component-frontend-mentor.git](https://github.com/TimurVoskaley/qr-code-component-frontend-mentor.git)
+- Live Site URL: [https://timurvoskaley.github.io/qr-code-component-frontend-mentor/](https://timurvoskaley.github.io/qr-code-component-frontend-mentor/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+
+
+### What I learned
+
+I published my project on GitHub Pages for the first time
+
+
+### Continued development
+
+In the future, I want to spend more time working with the grid layout.
+
+
+## Author
+
+- Frontend Mentor - [https://www.frontendmentor.io/profile/TimurVoskaley](https://www.frontendmentor.io/profile/TimurVoskaley)
+
+
